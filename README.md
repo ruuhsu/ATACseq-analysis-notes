@@ -18,7 +18,6 @@ The pipeline includes the following key steps:
 
 ### Repository Contents
 - **scripts:** Code for data preprocessing, alignment, and analysis.
-- **Data:** Metadata and sample information for the experiment.
-- **Results:** Key findings, including peak files and visualizations.
+- **results:** Key findings, including peak files and visualizations.
 
 Feel free to explore the repository and adapt the pipeline for your ATAC-seq projects!
