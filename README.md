@@ -17,7 +17,7 @@ The pipeline includes the following key steps:
 - **Pipeline Workflow:** [ATAC-seq Workshop by Sean Davis](https://seandavi.github.io/AtacSeqWorkshop/articles/Workflow.html)
 
 ### Repository Contents
-- **Scripts:** Code for data preprocessing, alignment, and analysis.
+- **scripts:** Code for data preprocessing, alignment, and analysis.
 - **Data:** Metadata and sample information for the experiment.
 - **Results:** Key findings, including peak files and visualizations.
 
